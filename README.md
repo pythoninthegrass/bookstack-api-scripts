@@ -42,4 +42,8 @@ CLI tool which generates static sites (using Mdbook) from Bookstack Wikis.
 
 ### [jaypyles/obisidan_to_bookstack](https://github.com/jaypyles/obsidian-to-bookstack) [Python]
 
-CLI tool to update and sync a Bookstack instance with an Obsidian Vault
+CLI tool to update and sync a Bookstack instance with an Obsidian Vault.
+
+### [bookstack/filesystem](https://codeberg.org/bookstack/filesystem) [Go]
+
+A BookStack filesystem implementation via FUSE using exports via the API.
