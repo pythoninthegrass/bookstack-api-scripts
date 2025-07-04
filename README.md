@@ -47,3 +47,7 @@ CLI tool to update and sync a Bookstack instance with an Obsidian Vault.
 ### [bookstack/filesystem](https://codeberg.org/bookstack/filesystem) [Go]
 
 A BookStack filesystem implementation via FUSE using exports via the API.
+
+### [pnocera/bookstack-mcp-server](https://github.com/pnocera/bookstack-mcp-server) [Typescript]
+
+A Model Context Protocol (MCP) server providing full access to BookStack's knowledge management capabilities. (47+ MCP Tools - Full CRUD operations for every BookStack feature)
