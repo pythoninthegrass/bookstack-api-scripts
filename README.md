@@ -50,4 +50,4 @@ A BookStack filesystem implementation via FUSE using exports via the API.
 
 ### [pnocera/bookstack-mcp-server](https://github.com/pnocera/bookstack-mcp-server) [Typescript]
 
-A Model Context Protocol (MCP) server providing full access to BookStack's knowledge management capabilities. (47+ MCP Tools - Full CRUD operations for every BookStack feature)
+An extensive Model Context Protocol (MCP) server for BookStack.
